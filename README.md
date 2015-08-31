@@ -17,6 +17,7 @@ Copy variables.json outside git repository and enter your credentials.
 
 ```
 py.test --variables /path/to/variables.json
+```
 
 ## Tested on
 

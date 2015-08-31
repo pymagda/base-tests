@@ -1,0 +1,5 @@
+selenium
+py
+pytest
+pytest-variables
+unittestzero

@@ -1,0 +1,19 @@
+{
+  "driver": {
+    "url": "https://core.futuresimple.com/users/login",
+    "wait": "7",
+    "window": [1024, 768]
+  },
+  "user": {
+    "email": "",
+    "password": ""
+  },
+  "lead": {
+    "first_name": "",
+    "last_name": ""
+  },
+  "lead_statuses": {
+    "prev_status": "New",
+    "new_status": ""
+  }
+}
